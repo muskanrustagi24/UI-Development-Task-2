@@ -86,3 +86,15 @@ img {
     font-weight:800;
     font-family: sans-serif;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+button:hover {
+    background-color: black;
+}
